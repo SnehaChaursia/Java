@@ -1,0 +1,11 @@
+Intro Java
+Java: object oriented programming lang.(developed by sun microsystem)now owend by oracle
+originally:oak => later on Java
+
+How java code run?
+JDK + develpomentTool => JRE + libraries => JVM
+compilation : Convert source code to byte code
+Execution   : convert byte code to native
+
+Function : void main () {main -name , viod -return nothing}
+ class is a big entity which store function in it.
