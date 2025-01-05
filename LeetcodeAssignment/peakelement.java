@@ -29,3 +29,4 @@ public class peakelement {
         System.out.println(solution(nums));
     }
 }
+// output : 2

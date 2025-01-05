@@ -43,3 +43,4 @@ class Solution {
         System.out.println(Arrays.toString(searchRange(nums, target))); 
     }
 }
+// output [6, 7]
